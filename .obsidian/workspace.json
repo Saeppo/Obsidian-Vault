@@ -67,10 +67,14 @@
             "id": "e6b598129109672d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ],
@@ -227,6 +231,7 @@
   },
   "active": "e6b598129109672d",
   "lastOpenFiles": [
+    "Untitled.md",
     "obisidansync",
     "Obsidian-Vault",
     "Datalogi/Week 43.md",
