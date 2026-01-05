@@ -1,4 +1,11 @@
 [
+<<<<<<< HEAD
+  "obsidian-to-notion",
+  "obsidian-latex-suite",
+  "quick-latex",
+  "obsidian-completr",
+  "github-sync"
+=======
   "periodic-notes",
   "homepage",
   "smart-connections",
@@ -12,4 +19,5 @@
   "google-drive-sync",
   "share-to-notionnext",
   "tldraw"
+>>>>>>> 9a33d130738dc56b235687822892626e24a2b046
 ]

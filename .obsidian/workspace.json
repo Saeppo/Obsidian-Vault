@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "1c597ac0872d9de4",
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e66e04aa3cc6ffb8",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "05edfd09829451d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/6.3 & 6.4 Permutationer og Kombinationer.md",
+                "file": "Just a Test Maan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.3 & 6.4 Permutationer og Kombinationer"
+              "title": "Just a Test Maan"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4f72c9d82dcc6ce9",
+    "id": "c9010a2921328b5e",
     "type": "split",
     "children": [
       {
-        "id": "5ad3458832821f80",
+        "id": "5cb191ac510c37f5",
         "type": "tabs",
         "children": [
           {
-            "id": "e206b21bc6c6c110",
+            "id": "cd131c16f8dc450a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "cfe276a9706b67d4",
+            "id": "ceeb02da0f34ac1e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "143829309a8f747e",
+            "id": "6fae171e4cc46e25",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "46f6940f9e351c3e",
+    "id": "06437382fce5aa1a",
     "type": "split",
     "children": [
       {
-        "id": "9a30f462efc35bf4",
+        "id": "eec78fbf9d8dde0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd7bf1ccfac87ca",
+            "id": "e8c16806bfd2e073",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "a18ac8bbc4c55661",
+            "id": "c66653449c24b1c8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "b96a4c83c05219a5",
+            "id": "ad7d2213fa3fedc9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,42 +137,35 @@
             }
           },
           {
-            "id": "f432ec13dde43fde",
+            "id": "5674599d1ec5994c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.5 Cardinality of Sets.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.5 Cardinality of Sets"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "5802ad16f119e9bb",
+            "id": "542e4f03ff665006",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
-            "id": "8d46c4e79f2e5f2a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,8 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "tldraw:Create new tldrawing": false,
-      "flashcards-obsidian:Generate flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,37 +181,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "homepage:Open homepage": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "share-to-notionnext:Share to NotionNext": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "05edfd09829451d2",
   "lastOpenFiles": [
-    "obisidansync/README.md",
-    "obisidansync",
-    "Datalogi/Supervised Learning and Clustering.md",
-    "Sidste Test.md",
+    "Datalogi/Week 49.md",
+    "Just a Test Maan.md",
+    "Untitled 2.md",
+    "Test.md",
+    "supervisedLearningAndClustering.pdf",
     "supervisedLearningAndClustering 1.pdf",
-    "Graph Theory.pdf",
-    "Online Algoritmer.pdf",
-    "50 Svar.pdf",
-    "49-50 Svar.pdf",
-    "48-49 Svar.pdf",
-    "48-49.pdf",
-    "Datalogi/Online Algorithms.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Sidste Test.md",
+    "Programming/z. Week 45.md",
     "Programming/While loops.md",
     "Programming/Trees, Nested Lists and Recursion.md",
-    "Math/2.2 Set Operations.md",
     "Programming/Nested data strcutures.md",
-    "Programming/Higher-order & Function Exponentitaion.md",
-    "Math/2.4 Sequences & Summations.md",
-    "Math/6.1 Counting (Kombinatorik).md",
-    "Programming/z. Week 45.md",
-    "Math/6.3 & 6.4 Permutationer og Kombinationer.md",
+    "Programming/Loops.md",
+    "Programming/Higher-order & Function programming.md",
+    "Programming/Dataclasses.md",
+    "Programming/Containers.md",
+    "Programming",
+    "Permutation og Kombinationer.pdf",
     "Pasted image 20251208155050.png",
     "Pasted image 20251208154707.png",
     "Pasted image 20251208152348.png",
@@ -230,20 +215,22 @@
     "Pasted image 20251208143113.png",
     "Pasted image 20251208143031.png",
     "Pasted image 20251208142952.png",
-    "Permutation og Kombinationer.pdf",
-    "Math/Untitled.md",
-    "Math/Untitled",
-    "Math/2.6 Matricer.md",
-    "Datalogi/Graph Theory.md",
-    "Datalogi/Week 49.md",
-    "Math/4.4 Solving Congruence.md",
-    "Datalogi/z. Week 47.md",
-    "6.2 The Pigeonhole Principle.md",
+    "Online Algoritmer.pdf",
+    "Math/9.6 Partial Orderings.md",
+    "Math/9.5 Equivalence Relations.md",
+    "Math/6.1 Counting (Kombinatorik).md",
+    "Math/9.4 Closures of Relations.md",
+    "Math/6.3 & 6.4 Permutationer og Kombinationer.md",
     "Math/5.3 Recursive Definitions.md",
-    "Datalogi/Tldraw 2025-11-25 11.04AM.md",
-    "Datalogi/Tldraw 2025-11-25 10.18AM.md",
-    "Math/4.1 Divisibility, Congruence & Modular Arithmetic.md",
+    "Math/4.4 Solving Congruence.md",
     "Math/5.2 Strong Induction.md",
-    "Math/2.5 Cardinality of Sets.md"
+    "Math/2.5 Cardinality of Sets.md",
+    "Math/4.3 Primes and Greatest Common Divisors.md",
+    "Math/4.1 Divisibility, Congruence & Modular Arithmetic.md",
+    "Math",
+    "Lecture18.pdf",
+    "Graph Theory.pdf",
+    "Datalogi",
+    "50 Svar.pdf"
   ]
 }
