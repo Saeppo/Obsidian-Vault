@@ -1,0 +1,33 @@
+{
+  "NextButton": true,
+  "notionAPINext": "",
+  "databaseIDNext": "",
+  "bannerUrl": "",
+  "notionUser": "",
+  "NotionLinkDisplay": true,
+  "proxy": "",
+  "GeneralButton": true,
+  "tagButton": true,
+  "customTitleButton": false,
+  "customTitleName": "",
+  "notionAPIGeneral": "",
+  "databaseIDGeneral": "",
+  "CustomButton": false,
+  "CustomValues": "",
+  "notionAPICustom": "",
+  "databaseIDCustom": "",
+  "databaseDetails": {
+    "": {
+      "format": "general",
+      "fullName": "ObisidanNotes",
+      "abName": "",
+      "notionAPI": "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",
+      "databaseID": "https://www.notion.so/ObisidanNotes-2b6732b874148090b213c4bf20fcce64?source=copy_link",
+      "tagButton": true,
+      "customTitleButton": false,
+      "customTitleName": "",
+      "customProperties": [],
+      "saved": true
+    }
+  }
+}
