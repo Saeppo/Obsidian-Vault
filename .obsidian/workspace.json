@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/9.6 Partial Orderings.md",
+                "file": "Obsidian-Vault/Math/2.2 Set Operations Joe biden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.6 Partial Orderings"
-            }
-          },
-          {
-            "id": "3cb8848ddde55d48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Git Lines to Sync.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Git Lines to Sync"
+              "title": "2.2 Set Operations Joe biden"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,8 +161,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           }
         ]
@@ -189,6 +174,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "share-to-notionnext:Share to NotionNext": false,
+      "obsidian-to-notion:Share to notion": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,19 +186,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3cb8848ddde55d48",
+  "active": "05edfd09829451d2",
   "lastOpenFiles": [
-    "Math/9.6 Partial Orderings.md",
-    "1. Git Lines to Sync.md",
-    "Datalogi/Sidste Test.md",
-    "Just a Test Maan.md",
-    "Test.md",
-    "Untitled 2.md",
-    "This is my kingdom cum.md",
-    "Datalogi/Week 49.md",
     "supervisedLearningAndClustering.pdf",
     "supervisedLearningAndClustering 1.pdf",
-    "Untitled 1.md",
     "Programming/z. Week 45.md",
     "Programming/While loops.md",
     "Programming/Trees, Nested Lists and Recursion.md",
@@ -233,19 +211,28 @@
     "Pasted image 20251208143031.png",
     "Pasted image 20251208142952.png",
     "Online Algoritmer.pdf",
+    "Math/9.6 Partial Orderings.md",
     "Math/9.5 Equivalence Relations.md",
-    "Math/6.1 Counting (Kombinatorik).md",
     "Math/9.4 Closures of Relations.md",
     "Math/6.3 & 6.4 Permutationer og Kombinationer.md",
+    "Math/6.1 Counting (Kombinatorik).md",
+    "Math/5.2 Strong Induction.md",
     "Math/5.3 Recursive Definitions.md",
     "Math/4.4 Solving Congruence.md",
-    "Math/5.2 Strong Induction.md",
-    "Math/2.5 Cardinality of Sets.md",
     "Math/4.3 Primes and Greatest Common Divisors.md",
+    "Math/4.1 Divisibility, Congruence & Modular Arithmetic.md",
+    "Math/2.6 Matricer.md",
+    "Math/2.5 Cardinality of Sets.md",
+    "Math/2.4 Sequences & Summations.md",
+    "Math/2.3 Functions.md",
+    "Math/2.2 Set Operations.md",
     "Math",
     "Lecture18.pdf",
+    "Just a Test Maan.md",
     "Graph Theory.pdf",
+    "Datalogi/z. Week 47.md",
     "Datalogi",
-    "50 Svar.pdf"
+    "Obsidian-Vault/Obsidian-Vault",
+    "Obsidian-Vault/Graph Theory.pdf"
   ]
 }
