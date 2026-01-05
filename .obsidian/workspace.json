@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "1c597ac0872d9de4",
     "type": "split",
     "children": [
       {
-        "id": "25c857e68bdc311c",
+        "id": "e66e04aa3cc6ffb8",
         "type": "tabs",
         "children": [
           {
-            "id": "e9855770e14ad1cc",
+            "id": "05edfd09829451d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This is my kingdom cum.md",
+                "file": "Math/9.6 Partial Orderings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is my kingdom cum"
+              "title": "9.6 Partial Orderings"
+            }
+          },
+          {
+            "id": "3cb8848ddde55d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Git Lines to Sync.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Git Lines to Sync"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4f72c9d82dcc6ce9",
+    "id": "c9010a2921328b5e",
     "type": "split",
     "children": [
       {
-        "id": "5ad3458832821f80",
+        "id": "5cb191ac510c37f5",
         "type": "tabs",
         "children": [
           {
-            "id": "e206b21bc6c6c110",
+            "id": "cd131c16f8dc450a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "cfe276a9706b67d4",
+            "id": "ceeb02da0f34ac1e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "143829309a8f747e",
+            "id": "6fae171e4cc46e25",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "46f6940f9e351c3e",
+    "id": "06437382fce5aa1a",
     "type": "split",
     "children": [
       {
-        "id": "9a30f462efc35bf4",
+        "id": "eec78fbf9d8dde0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd7bf1ccfac87ca",
+            "id": "e8c16806bfd2e073",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,24 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "a18ac8bbc4c55661",
+            "id": "c66653449c24b1c8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "b96a4c83c05219a5",
+            "id": "ad7d2213fa3fedc9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,42 +152,22 @@
             }
           },
           {
-            "id": "f432ec13dde43fde",
+            "id": "5674599d1ec5994c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.5 Cardinality of Sets.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.5 Cardinality of Sets"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "5802ad16f119e9bb",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "8d46c4e79f2e5f2a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "d0d5faaaf089ac75",
+            "id": "542e4f03ff665006",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -184,8 +180,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,16 +199,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e9855770e14ad1cc",
+  "active": "3cb8848ddde55d48",
   "lastOpenFiles": [
+    "Math/9.6 Partial Orderings.md",
+    "1. Git Lines to Sync.md",
+    "Datalogi/Sidste Test.md",
+    "Just a Test Maan.md",
+    "Test.md",
+    "Untitled 2.md",
     "This is my kingdom cum.md",
+    "Datalogi/Week 49.md",
     "supervisedLearningAndClustering.pdf",
     "supervisedLearningAndClustering 1.pdf",
-    "Untitled.md",
-    "Untitled 2.md",
     "Untitled 1.md",
-    "Test.md",
-    "Sidste Test.md",
     "Programming/z. Week 45.md",
     "Programming/While loops.md",
     "Programming/Trees, Nested Lists and Recursion.md",
@@ -235,18 +233,15 @@
     "Pasted image 20251208143031.png",
     "Pasted image 20251208142952.png",
     "Online Algoritmer.pdf",
-    "Math/9.6 Partial Orderings.md",
     "Math/9.5 Equivalence Relations.md",
+    "Math/6.1 Counting (Kombinatorik).md",
     "Math/9.4 Closures of Relations.md",
     "Math/6.3 & 6.4 Permutationer og Kombinationer.md",
-    "Math/5.2 Strong Induction.md",
     "Math/5.3 Recursive Definitions.md",
-    "Math/6.1 Counting (Kombinatorik).md",
     "Math/4.4 Solving Congruence.md",
-    "Math/4.3 Primes and Greatest Common Divisors.md",
-    "Math/4.1 Divisibility, Congruence & Modular Arithmetic.md",
-    "Math/2.6 Matricer.md",
+    "Math/5.2 Strong Induction.md",
     "Math/2.5 Cardinality of Sets.md",
+    "Math/4.3 Primes and Greatest Common Divisors.md",
     "Math",
     "Lecture18.pdf",
     "Graph Theory.pdf",
