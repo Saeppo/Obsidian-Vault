@@ -1,0 +1,3 @@
+[submodule "Obisidian-Vault"]
+	path = Obisidian-Vault
+	url = https://github.com/Saeppo/Obsidian-Vault.git
