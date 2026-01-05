@@ -207,6 +207,20 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "542e4f03ff665006",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -223,10 +237,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "share-to-notionnext:Share to NotionNext": false,
-      "obsidian-to-notion:Share to notion": false,
-      "github-sync:Sync with Remote": false
+      "bases:Create new base": false
     }
   },
   "active": "cd131c16f8dc450a",
