@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "1c597ac0872d9de4",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "e66e04aa3cc6ffb8",
+        "id": "25c857e68bdc311c",
         "type": "tabs",
         "children": [
           {
-            "id": "05edfd09829451d2",
+            "id": "e9855770e14ad1cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Just a Test Maan.md",
+                "file": "This is my kingdom cum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Just a Test Maan"
+              "title": "This is my kingdom cum"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c9010a2921328b5e",
+    "id": "4f72c9d82dcc6ce9",
     "type": "split",
     "children": [
       {
-        "id": "5cb191ac510c37f5",
+        "id": "5ad3458832821f80",
         "type": "tabs",
         "children": [
           {
-            "id": "cd131c16f8dc450a",
+            "id": "e206b21bc6c6c110",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "ceeb02da0f34ac1e",
+            "id": "cfe276a9706b67d4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "6fae171e4cc46e25",
+            "id": "143829309a8f747e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "06437382fce5aa1a",
+    "id": "46f6940f9e351c3e",
     "type": "split",
     "children": [
       {
-        "id": "eec78fbf9d8dde0b",
+        "id": "9a30f462efc35bf4",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c16806bfd2e073",
+            "id": "ddd7bf1ccfac87ca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Test"
             }
           },
           {
-            "id": "c66653449c24b1c8",
+            "id": "a18ac8bbc4c55661",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ad7d2213fa3fedc9",
+            "id": "b96a4c83c05219a5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +136,42 @@
             }
           },
           {
-            "id": "5674599d1ec5994c",
+            "id": "f432ec13dde43fde",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "2.5 Cardinality of Sets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 2.5 Cardinality of Sets"
             }
           },
           {
-            "id": "542e4f03ff665006",
+            "id": "5802ad16f119e9bb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          },
+          {
+            "id": "8d46c4e79f2e5f2a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "d0d5faaaf089ac75",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,7 +184,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -184,16 +204,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "05edfd09829451d2",
+  "active": "e9855770e14ad1cc",
   "lastOpenFiles": [
-    "Datalogi/Week 49.md",
-    "Just a Test Maan.md",
-    "Untitled 2.md",
-    "Test.md",
+    "This is my kingdom cum.md",
     "supervisedLearningAndClustering.pdf",
     "supervisedLearningAndClustering 1.pdf",
     "Untitled.md",
+    "Untitled 2.md",
     "Untitled 1.md",
+    "Test.md",
     "Sidste Test.md",
     "Programming/z. Week 45.md",
     "Programming/While loops.md",
@@ -218,15 +237,16 @@
     "Online Algoritmer.pdf",
     "Math/9.6 Partial Orderings.md",
     "Math/9.5 Equivalence Relations.md",
-    "Math/6.1 Counting (Kombinatorik).md",
     "Math/9.4 Closures of Relations.md",
     "Math/6.3 & 6.4 Permutationer og Kombinationer.md",
-    "Math/5.3 Recursive Definitions.md",
-    "Math/4.4 Solving Congruence.md",
     "Math/5.2 Strong Induction.md",
-    "Math/2.5 Cardinality of Sets.md",
+    "Math/5.3 Recursive Definitions.md",
+    "Math/6.1 Counting (Kombinatorik).md",
+    "Math/4.4 Solving Congruence.md",
     "Math/4.3 Primes and Greatest Common Divisors.md",
     "Math/4.1 Divisibility, Congruence & Modular Arithmetic.md",
+    "Math/2.6 Matricer.md",
+    "Math/2.5 Cardinality of Sets.md",
     "Math",
     "Lecture18.pdf",
     "Graph Theory.pdf",
