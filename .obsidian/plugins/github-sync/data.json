@@ -1,0 +1,7 @@
+{
+  "remoteURL": "https://github.com/Saeppo/Obsidian-Vault.git",
+  "gitLocation": "",
+  "syncinterval": 5,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
